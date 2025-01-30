@@ -29,13 +29,13 @@ uma feiticeira de vestido no joelho preto segurando sua varinha com cabelos ruiv
 
 
 
-## ✨ Features
+## ✨ Features                       
 
 - Conteúdo gerado via ChatGPT
 - Imagens geradas via Nightcafe
 - Ebook criado no Powerpoint
 
 
-Resultado:
+Resultado: https://1drv.ms/p/c/0868ec41c94afa20/EZAspaiIjdlPk9Oolxs16K8BZzo2cwdwuWKxsMSUnkMOWw?e=Id0lpP
 
-file:///C:/Users/dudac/Downloads/Ebook%20-%20CSS.pdf
+
